@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Sevket03/Sevket03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Şevket 👋
 
-Here are some ideas to get you started:
+🎓 Software Engineering student at Istanbul Beykent University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Currently exploring mobile application development with Flutter and Dart.
+
+💻 Interested in building practical applications and improving my software development skills.
+
+🌱 Learning through hands-on projects, experimentation, and continuous practice.
+
+🎯 Looking for internship opportunities and aiming to grow into a professional software developer.
+
+## 🛠️ Technologies & Tools
+
+- Flutter & Dart
+- Git & GitHub
+- SQL (fundamentals)
+
+## 🚀 Projects
+
+I'm currently organizing my academic projects and working on new applications. Project repositories will be added here as they become ready.
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/şevket-ölmez-5b19a1242)
+  
